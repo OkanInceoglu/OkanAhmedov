@@ -1,8 +1,8 @@
 # Hi, I'm Okan 👋
 
-🎓 Computer Systems & Technologies student at Burgas Free University  
+🎓 Computer Systems & Technologies student at Burgas State University  
 💻 Learning C, C++, Java and SQL  
-🔧 Interested in software development & IT support  
+🔧 Interested in software development,Syber Security & IT support  
 📍 Based in Bulgaria  
 
 ## 🛠️ Tech Stack
